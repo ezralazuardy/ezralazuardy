@@ -7,7 +7,7 @@ a bit about me:
 - 🧑‍🎓 undergraduate [computer engineering student](https://ft.undip.ac.id/en/site/) (average gpa `3.8`)
 - 🎮 dota 2
 - ☕ black / americano; no sugar
-- 👨‍💻 kotlin / php / js / rust / go / elixir
+- 👨‍💻 kotlin / php / js / py / rust / go / elixir
 - 🚀 fullstack, but prefer backend
 - 🔥 fav. stack: laravel vue inertia, mevn
 - 🌟 fav. stuff: reverse engineering, astronomy, astrophysics
