@@ -1,16 +1,24 @@
-### Hi there 👋
+### hi there 👋
 
-<!--
-**ezralazuardy/ezralazuardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know how the system actually works.
 
-Here are some ideas to get you started:
+a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 undergraduate [computer engineering student](https://ft.undip.ac.id/en/site/) (average gpa `3.8`)
+- ☕ black / americano; no sugar
+- 🎮 dota 2
+- 👨‍💻 kotlin / php / js / rust / go / elixir
+- 🗄️ sql-based enjoyer
+- 🚀 fullstack, but prefer backend
+- 🔥 fav. stack: laravel vue inertia / mevn
+- 🌟 fav. stuff: reverse engineering, astronomy, astrophysics
+
+specs:
+
+- 📀 elementaryOS 6.1 Jolnir
+- 💻 ec2047AX / ryzen 5 / nvidia geforce gtx 1050
+- 🖱️ razer basilisk ultimate / razer firefly v2
+- ⌨️ razer huntsman te (linear switch)
+- 🐋 docker `v20`
+
+ps; contact me via [email](mailto:ezralazuardy@students.undip.ac.id) to ask for detailed resume and portofolio.
