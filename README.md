@@ -5,12 +5,11 @@ it's me, an _egocentric_; polyglot software engineer who know nothing, can't do 
 a bit about me:
 
 - 🧑‍🎓 undergraduate [computer engineering student](https://ft.undip.ac.id/en/site/) (average gpa `3.8`)
-- ☕ black / americano; no sugar
 - 🎮 dota 2
+- ☕ black / americano; no sugar
 - 👨‍💻 kotlin / php / js / rust / go / elixir
-- 🗄️ sql-based enjoyer
 - 🚀 fullstack, but prefer backend
-- 🔥 fav. stack: laravel vue inertia / mevn
+- 🔥 fav. stack: laravel vue inertia, mevn
 - 🌟 fav. stuff: reverse engineering, astronomy, astrophysics
 
 specs:
@@ -20,6 +19,8 @@ specs:
 - 🖱️ razer basilisk ultimate / razer firefly v2
 - ⌨️ razer huntsman te (linear switch)
 - 🐋 docker `v20`
+
+fun fact, my name [ezra](https://namamia.com/nama-bayi/ezra.html) [lazuardy](https://namamia.com/nama-bayi/lazuardy.html) means "_helper from the horizon_"
 
 i don't do skill measurement by badge; judge me by repos i've published.
 
