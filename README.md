@@ -20,7 +20,7 @@ specs:
 - ⌨️ razer huntsman te (linear switch)
 - 🐋 docker `v20`
 
-fun fact, my name [ezra](https://namamia.com/nama-bayi/ezra.html) [lazuardy](https://namamia.com/nama-bayi/lazuardy.html) means "_helper from the horizon_"
+fun fact, my name [ezra](https://namamia.com/nama-bayi/ezra.html) [lazuardy](https://namamia.com/nama-bayi/lazuardy.html) means "_helper from the horizon_".
 
 i don't do skill measurement by badge; judge me by repos i've published.
 
