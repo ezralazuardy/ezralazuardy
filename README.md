@@ -1,6 +1,6 @@
-### hi there 👋
+### hello world 👋
 
-it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know how the system actually works.
+it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything,<br/>and yet still don't know how the system actually works.
 
 a bit about me:
 
