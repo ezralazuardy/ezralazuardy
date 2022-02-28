@@ -21,6 +21,6 @@ specs:
 - ⌨️ razer huntsman te (linear switch)
 - 🐋 docker `v20`
 
-i dont do skill measurement by badge; judge me by public repo i've published.
+i dont do skill measurement by badge; judge me by repos i've published.
 
 ps; contact me via [email](mailto:ezralazuardy@students.undip.ac.id) to ask for detailed resume and portofolio.
