@@ -1,6 +1,6 @@
 ### hello world 👋
 
-it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know<br/>how the system actually works.
+it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know how the system actually works. i don't do skill measurement by badge; judge my skill by repos i've published.
 
 a bit about me:
 
@@ -21,7 +21,5 @@ specs:
 - 🐋 docker `v20`
 
 fun fact, [ezra](https://namamia.com/nama-bayi/ezra.html) [lazuardy](https://namamia.com/nama-bayi/lazuardy.html) means "_a helper from the horizon_".
-
-i don't do skill measurement by badge; judge me by repos i've published.
 
 ps; contact me via [email](mailto:ezralazuardy@students.undip.ac.id) to ask for detailed resume and portofolio.
