@@ -1,6 +1,6 @@
 ### hello world 👋
 
-it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything,<br/>and yet still don't know how the system actually works.
+it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know<br/>how the system actually works.
 
 a bit about me:
 
@@ -21,6 +21,6 @@ specs:
 - ⌨️ razer huntsman te (linear switch)
 - 🐋 docker `v20`
 
-i dont do skill measurement by badge; judge me by repos i've published.
+i don't do skill measurement by badge; judge me by repos i've published.
 
 ps; contact me via [email](mailto:ezralazuardy@students.undip.ac.id) to ask for detailed resume and portofolio.
