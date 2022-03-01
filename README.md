@@ -12,7 +12,7 @@ a bit about me:
 - 🔥 fav. stack: laravel vue inertia, mevn
 - 🌟 fav. stuff: reverse engineering, astronomy, astrophysics
 
-specs:
+workspace:
 
 - 📀 elementaryOS 6.1 Jolnir
 - 💻 ec2047AX / ryzen 5 / nvidia geforce gtx 1050
