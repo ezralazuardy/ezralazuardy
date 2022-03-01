@@ -2,7 +2,7 @@
 
 it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know how the system actually works. i don't do skill measurement by badge; judge my skill by repos i've published.
 
-i like to write, most of my writings are published at [medium](https://ezralazuardy.medium.com); mostly about tech stuff.
+i like to write about tech stuff, most of my writings are published at [medium](https://ezralazuardy.medium.com).
 
 a bit about me:
 
