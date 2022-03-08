@@ -1,4 +1,4 @@
-![Ezra Lazuardy's card name](https://cardivo.vercel.app/api?name=Ezra%20Lazuardy&description=software%20engineer%20%2F%20cloud%20engineer%20%2F%20devops&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F24422019%3Fv%3D4&backgroundColor=%23000000&pattern=topography&colorPattern=%23636363&fontColor=%23ddd&iconColor=%23fff&opacity=0.4&site=ezralazuardy.com&github=ezralazuardy&instagram=ezralazuardyy&twitter=ezralazuardyy)
+![Ezra Lazuardy's card name](https://cardivo.vercel.app/api?name=Ezra%20Lazuardy&description=software%20engineer%20%2F%20cloud%20engineer%20%2F%20devops&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F24422019%3Fv%3D4&backgroundColor=%23000000&pattern=topography&colorPattern=%23636363&fontColor=%23ddd&iconColor=%23fff&opacity=0.3&site=ezralazuardy.com&github=ezralazuardy&instagram=ezralazuardyy&twitter=ezralazuardyy)
 
 it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know how the system actually works. i like to write about tech stuff, most of my writings are published at [medium](https://ezralazuardy.medium.com).
 
