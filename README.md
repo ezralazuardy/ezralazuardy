@@ -21,7 +21,7 @@ workspace:
 
 - 📀 elementaryOS 6.1 Jolnir
 - 🐧 kernel 5.13.0-30-generic
-- 🐋 docker as dev env / k8s
+- 🐋 docker 20.10
 - 💻 ec2047AX / ryzen 5 / nvidia geforce gtx 1050
 - 🖱️ razer basilisk ultimate / razer firefly v2
 - ⌨️ razer huntsman te (linear switch)
