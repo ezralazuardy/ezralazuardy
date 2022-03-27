@@ -12,7 +12,7 @@ a bit about me:
 - 🦉 a night owl
 - 🚀 fullstack, but prefer backend
 - 🔥 laravel vue inertia / mevn
-- 👨‍💻 kotlin / php / js / py / go / rust / elixir
+- 👨‍💻 kotlin / php / ts / py / go / rust / elixir
 - ☕ black / americano; no sugar
 - 🌟 admiring reverse engineering, astronomy, astrophysics
 - 🧑‍🎓 undergraduate [computer engineering student](https://ft.undip.ac.id/en/site/) (average gpa `3.8`)
