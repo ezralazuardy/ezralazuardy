@@ -11,7 +11,7 @@ a bit about me:
 - 🎮 dota 2
 - 🦉 a night owl
 - 🚀 fullstack, but prefer backend
-- 🔥 laravel vue inertia / mevn
+- 🔥 nuxt prisma / laravel vue inertia / mevn
 - 👨‍💻 kotlin / php / ts / py / go / rust / elixir
 - ☕ black / americano; no sugar
 - 🌟 admiring reverse engineering, astronomy, astrophysics
