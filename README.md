@@ -1,5 +1,3 @@
-<!-- ![Ezra Lazuardy's card name](https://cardivo.vercel.app/api?name=Ezra%20Lazuardy&description=software%20engineer%20%2F%20cloud%20engineer%20%2F%20devops&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F24422019%3Fv%3D4&backgroundColor=%23000000&pattern=topography&colorPattern=%23636363&fontColor=%23ddd&iconColor=%23fff&opacity=0.3&site=ezralazuardy.com&github=ezralazuardy&instagram=ezralazuardyy&twitter=ezralazuardyy) -->
-
 ![Ezra Lazuardy's Cover](https://raw.githubusercontent.com/ezralazuardy/ezralazuardy/main/assets/cover-skeleton.png)
 
 it's me, an _egocentric_; polyglot software engineer who know nothing, can't do anything, and yet still don't know how the system actually works. i love to write about tech stuff, most of them are published at [medium](https://ezralazuardy.medium.com).
@@ -11,18 +9,19 @@ a bit about me:
 - 🎮 dota 2
 - 🦉 a night owl
 - 🚀 fullstack, but prefer backend
+- 💕 in love with serverless jamstack
 - 🔥 nuxt prisma / laravel vue inertia / mevn
 - 👨‍💻 kotlin / php / ts / py / go / rust / elixir
 - ☕ black / americano; no sugar
 - 🌟 admiring reverse engineering, astronomy, astrophysics
-- 🧑‍🎓 undergraduate [computer engineering student](https://ft.undip.ac.id/en/site/) (average gpa `3.8`)
+- 🧑‍🎓 undergraduate [computer engineering student](https://ft.undip.ac.id/en/site) (average gpa `3.8`)
 
 workspace:
 
 - 📀 elementaryOS 6.1 Jolnir
-- 🐧 kernel 5.13.0-30-generic
+- 🐧 kernel 5.13.0-39-generic
 - 🐋 docker 20.10
-- 💻 ec2047AX / ryzen 5 / nvidia geforce gtx 1050
+- 💻 ryzen 5 / nvidia geforce gtx 1050
 - 🖱️ razer basilisk ultimate / razer firefly v2
 - ⌨️ razer huntsman te (linear switch)
 
