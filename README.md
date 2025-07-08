@@ -8,4 +8,4 @@ fun fact, [ezra](https://namamia.com/nama-bayi/ezra.html) [lazuardy](https://nam
 [update] i founded my own startup, Lazuardy Tech. check it out on [www.lazuardy.tech](https://www.lazuardy.tech).
 
 [2025]
-[update] i planning to build a holding company, Lazuardy. check it out on [www.lazuardy.group](https://www.lazuardy.group).
+[update] im planning to build a holding company, Lazuardy. check it out on [www.lazuardy.group](https://www.lazuardy.group).
