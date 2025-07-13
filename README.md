@@ -4,10 +4,8 @@
 
 he'd love to write; most of them are published at [medium](https://blog.lazuardy.tech). he speak kotlin / php / ts / py / go / rust / elixir.
 
----
-
 #### changelog
 
-[2024] [update] i founded my own startup, Lazuardy Tech. check it out on [www.lazuardy.tech](https://www.lazuardy.tech).
+[2024] [update] he founded his own startup, [Lazuardy Tech](https://www.lazuardy.tech).
 
-[2025] [update] im planning to build a holding company, Lazuardy. check it out on [www.lazuardy.group](https://www.lazuardy.group).
+[2025] [update] he planned to build a holding company, [Lazuardy](https://www.lazuardy.group).
