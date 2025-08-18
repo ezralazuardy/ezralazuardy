@@ -6,6 +6,8 @@ he'd love to write; most of them are published at [medium](https://blog.lazuardy
 
 #### changelog
 
+[2024] [update] he published his international research article, [Retia on IEEE]([https://www.lazuardy.tech](https://ieeexplore.ieee.org/document/10762761/)).
+
 [2024] [update] he founded his own startup, [Lazuardy Tech](https://www.lazuardy.tech).
 
 [2025] [update] he founded his own holding company, [Lazuardy](https://www.lazuardy.group).
