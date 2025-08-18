@@ -8,4 +8,6 @@ he'd love to write; most of them are published at [medium](https://blog.lazuardy
 
 [2024] [update] he founded his own startup, [Lazuardy Tech](https://www.lazuardy.tech).
 
-[2025] [update] he planned to build a holding company, [Lazuardy](https://www.lazuardy.group).
+[2025] [update] he founded his own holding company, [Lazuardy](https://www.lazuardy.group).
+
+[2025] [update] he launch a ecosystem-based saas, [AI4CEO](https://www.ai4.ceo).
