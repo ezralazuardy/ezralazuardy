@@ -10,6 +10,6 @@ he'd love to write; most of them are published at [medium](https://blog.lazuardy
 
 [2024] he founded his own technology company, [Lazuardy Tech](https://www.lazuardy.tech).
 
-[2025] he founded his own holding company, [Lazuardy](https://www.lazuardy.group).
+[2025] he founded his own holding company, [Lazuardy Group](https://www.lazuardy.group).
 
 [2025] he launch a ecosystem-based saas, [AI4CEO](https://www.ai4.ceo).
