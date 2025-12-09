@@ -12,4 +12,10 @@ he'd love to write; most of them are published at [medium](https://blog.lazuardy
 
 [2025] he founded his own holding company, [Lazuardy Group](https://www.lazuardy.group).
 
-[2025] he launch a ecosystem-based saas, [AI4CEO](https://www.ai4.ceo).
+[2025] he launch ecosystem-based saas, [AI4CEO](https://www.ai4.ceo).
+
+#### planned
+
+[2026] to launch ai-based legal assistant, [LEXA](https://lexa.lazuardy.tech).
+
+[2026] to launch tech-based learning platform, [Lazuardy Academy](https://www.lazuardy.academy).
