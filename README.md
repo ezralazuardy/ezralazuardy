@@ -12,7 +12,7 @@ he'd love to write; most of them are published at [medium](https://blog.lazuardy
 
 [2025] he founded his own holding company, [Lazuardy Group](https://www.lazuardy.group).
 
-[2025] he launch ecosystem-based saas, [AI4CEO](https://www.ai4.ceo).
+[2025] he launch ai-based business assistant, [AI4CEO](https://www.ai4.ceo).
 
 #### planned
 
